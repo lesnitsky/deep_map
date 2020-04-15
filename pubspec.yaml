@@ -1,6 +1,6 @@
 name: deep_map
 description: getDeep and setDeep for dart maps
-version: 1.0.0
+version: 1.0.0+1
 homepage: https://github.com/lesnitsky/deep_map
 
 environment:
